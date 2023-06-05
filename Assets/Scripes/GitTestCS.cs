@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GitTestCS : MonoBehaviour
 {
-    private string gitChange = "Second";
+    private string gitChange = "Third";
     void Start()
     {
         
